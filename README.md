@@ -28,14 +28,6 @@ Bem vindo(a) ao **Jogo da Forca**! Um jogo clássico e divertido desenvolvido em
    - Evite repetir letras já tentadas.
    - Complete a palavra antes de errar 6 vezes!
 
-## 📂 Estrutura do Projeto
-
-```plaintext
-JogoDaForca/
-  ├── README.md         
-  ├── forca.py   
-```
-
 ## 💡 Contribuições
 
 Contribuições são bem-vindas! Se tiver sugestões ou melhorias, abra uma **issue** ou envie um **pull request**.  
